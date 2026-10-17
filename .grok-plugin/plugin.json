@@ -1,0 +1,15 @@
+{
+  "name": "outstand",
+  "version": "1.0.0",
+  "description": "Outstand for Grok Build via the hosted Outstand MCP server at mcp.outstand.so. Publish and schedule posts to X, LinkedIn, Instagram, TikTok, YouTube, Facebook, Threads, Bluesky, Pinterest, Google Business Profile, Vimeo and Reddit, reply to comments, manage connected accounts and media, and read post and account analytics. Sign in with your Outstand account on first connect.",
+  "author": {
+    "name": "Outstand",
+    "email": "support@outstand.so",
+    "url": "https://www.outstand.so"
+  },
+  "homepage": "https://www.outstand.so/docs/mcp",
+  "repository": "https://github.com/Outstand-so/outstand-grok-plugin",
+  "license": "MIT",
+  "keywords": ["outstand", "outstand.so", "outstand mcp", "outstand social", "outstand api"],
+  "logo": "assets/logo.png"
+}
