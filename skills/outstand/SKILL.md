@@ -1,11 +1,11 @@
 ---
 name: outstand
 description: >-
-  Work with Outstand through the Outstand MCP server: publish, schedule, edit, repost
-  and delete posts on X, LinkedIn, Instagram, TikTok, YouTube, Facebook, Threads,
-  Bluesky, Pinterest, Google Business Profile, Vimeo and Reddit, upload media, read and
-  reply to comments, manage connected social accounts, and read post and account
-  analytics. Use whenever "Outstand", "outstand.so", or the user's Outstand-connected
+  Publish, schedule and analyze social posts on 12 networks through the Outstand MCP
+  server. Create, edit, repost and delete posts on X, LinkedIn, Instagram, TikTok,
+  YouTube, Facebook, Threads, Bluesky, Pinterest, Google Business Profile, Vimeo and
+  Reddit, upload media, read and reply to comments, manage connected social accounts,
+  and read post and account analytics. Use whenever "Outstand", "outstand.so", or the user's Outstand-connected
   social accounts, scheduled posts or social analytics come up.
 ---
 
