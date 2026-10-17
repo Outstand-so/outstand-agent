@@ -8,7 +8,7 @@
     "url": "https://www.outstand.so"
   },
   "homepage": "https://www.outstand.so/docs/mcp",
-  "repository": "https://github.com/Outstand-so/outstand-grok-plugin",
+  "repository": "https://github.com/Outstand-so/outstand-agent",
   "license": "MIT",
   "keywords": ["outstand", "outstand.so", "outstand mcp", "outstand social", "outstand api"],
   "logo": "assets/logo.png"
